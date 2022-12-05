@@ -1,3 +1,7 @@
+![Screenshot (7)](https://user-images.githubusercontent.com/84165258/205658945-1aaa20d9-7bf5-47c0-a65c-5b2b97be1686.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/84165258/205659018-7e824e03-fb29-4f8c-88fa-f4755ed5349f.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/84165258/205659054-9b62695c-7d3f-47ed-a56e-e8345f1dbeca.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/84165258/205659093-5c2c0bb8-d6de-48db-bd06-887f68230e0a.png)
 This app is a single page application purely made with React js. It has an awesome and elegant user interface with all the functionalities that a restaurant app should have.
 
 There is no backend technology used in the app so that's why authentication system (login/logout) is not coded in the app but it has all the front-end requirements completed and forms data has been nicely managed using the state hooks.
